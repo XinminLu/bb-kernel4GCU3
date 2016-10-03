@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/tps6507x-ts.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/input/touchscreen/tps6507x-ts.ko drivers/input/touchscreen/tps6507x-ts.o drivers/input/touchscreen/tps6507x-ts.mod.o

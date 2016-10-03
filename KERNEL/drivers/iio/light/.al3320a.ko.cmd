@@ -1,0 +1,1 @@
+cmd_drivers/iio/light/al3320a.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/iio/light/al3320a.ko drivers/iio/light/al3320a.o drivers/iio/light/al3320a.mod.o

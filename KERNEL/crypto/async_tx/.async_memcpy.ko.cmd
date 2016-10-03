@@ -1,0 +1,1 @@
+cmd_crypto/async_tx/async_memcpy.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o crypto/async_tx/async_memcpy.ko crypto/async_tx/async_memcpy.o crypto/async_tx/async_memcpy.mod.o

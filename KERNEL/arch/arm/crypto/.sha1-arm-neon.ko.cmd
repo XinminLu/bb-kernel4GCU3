@@ -1,0 +1,1 @@
+cmd_arch/arm/crypto/sha1-arm-neon.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o arch/arm/crypto/sha1-arm-neon.ko arch/arm/crypto/sha1-arm-neon.o arch/arm/crypto/sha1-arm-neon.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/mmc/host/rtsx_usb_sdmmc.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/mmc/host/rtsx_usb_sdmmc.ko drivers/mmc/host/rtsx_usb_sdmmc.o drivers/mmc/host/rtsx_usb_sdmmc.mod.o

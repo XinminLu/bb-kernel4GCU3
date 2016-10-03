@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/siano/smsusb.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/media/usb/siano/smsusb.ko drivers/media/usb/siano/smsusb.o drivers/media/usb/siano/smsusb.mod.o

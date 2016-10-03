@@ -1,0 +1,1 @@
+cmd_drivers/input/joystick/magellan.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/input/joystick/magellan.ko drivers/input/joystick/magellan.o drivers/input/joystick/magellan.mod.o

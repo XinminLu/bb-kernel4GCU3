@@ -1,0 +1,1 @@
+cmd_net/netfilter/nf_tables.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o net/netfilter/nf_tables.ko net/netfilter/nf_tables.o net/netfilter/nf_tables.mod.o

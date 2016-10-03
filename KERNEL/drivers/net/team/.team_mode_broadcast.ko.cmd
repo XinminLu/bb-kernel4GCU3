@@ -1,0 +1,1 @@
+cmd_drivers/net/team/team_mode_broadcast.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/team/team_mode_broadcast.ko drivers/net/team/team_mode_broadcast.o drivers/net/team/team_mode_broadcast.mod.o

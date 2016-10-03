@@ -1,0 +1,1 @@
+cmd_net/netfilter/nft_hash.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o net/netfilter/nft_hash.ko net/netfilter/nft_hash.o net/netfilter/nft_hash.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/keymaps/rc-flydvb.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/media/rc/keymaps/rc-flydvb.ko drivers/media/rc/keymaps/rc-flydvb.o drivers/media/rc/keymaps/rc-flydvb.mod.o

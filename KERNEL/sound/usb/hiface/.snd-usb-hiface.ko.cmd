@@ -1,0 +1,1 @@
+cmd_sound/usb/hiface/snd-usb-hiface.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o sound/usb/hiface/snd-usb-hiface.ko sound/usb/hiface/snd-usb-hiface.o sound/usb/hiface/snd-usb-hiface.mod.o

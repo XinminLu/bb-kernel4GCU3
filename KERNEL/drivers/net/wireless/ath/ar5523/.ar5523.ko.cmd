@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/ath/ar5523/ar5523.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/wireless/ath/ar5523/ar5523.ko drivers/net/wireless/ath/ar5523/ar5523.o drivers/net/wireless/ath/ar5523/ar5523.mod.o

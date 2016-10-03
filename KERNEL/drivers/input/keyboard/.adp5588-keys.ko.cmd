@@ -1,0 +1,1 @@
+cmd_drivers/input/keyboard/adp5588-keys.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/input/keyboard/adp5588-keys.ko drivers/input/keyboard/adp5588-keys.o drivers/input/keyboard/adp5588-keys.mod.o

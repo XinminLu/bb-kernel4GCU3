@@ -1,0 +1,1 @@
+cmd_drivers/gpio/gpio-max7301.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/gpio/gpio-max7301.ko drivers/gpio/gpio-max7301.o drivers/gpio/gpio-max7301.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/rtc/rtc-rv3029c2.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/rtc/rtc-rv3029c2.ko drivers/rtc/rtc-rv3029c2.o drivers/rtc/rtc-rv3029c2.mod.o

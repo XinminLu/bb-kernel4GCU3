@@ -1,0 +1,1 @@
+cmd_sound/soc/davinci/snd-soc-davinci-mcasp.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o sound/soc/davinci/snd-soc-davinci-mcasp.ko sound/soc/davinci/snd-soc-davinci-mcasp.o sound/soc/davinci/snd-soc-davinci-mcasp.mod.o

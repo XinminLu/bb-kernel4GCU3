@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/cy8ctmg110_ts.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/input/touchscreen/cy8ctmg110_ts.ko drivers/input/touchscreen/cy8ctmg110_ts.o drivers/input/touchscreen/cy8ctmg110_ts.mod.o

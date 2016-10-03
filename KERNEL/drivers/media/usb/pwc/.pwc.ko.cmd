@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/pwc/pwc.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/media/usb/pwc/pwc.ko drivers/media/usb/pwc/pwc.o drivers/media/usb/pwc/pwc.mod.o

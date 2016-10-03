@@ -1,0 +1,1 @@
+cmd_drivers/misc/tsl2550.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/misc/tsl2550.ko drivers/misc/tsl2550.o drivers/misc/tsl2550.mod.o

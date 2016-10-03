@@ -1,0 +1,1 @@
+cmd_fs/efs/efs.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o fs/efs/efs.ko fs/efs/efs.o fs/efs/efs.mod.o

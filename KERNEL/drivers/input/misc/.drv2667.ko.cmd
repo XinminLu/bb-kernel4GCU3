@@ -1,0 +1,1 @@
+cmd_drivers/input/misc/drv2667.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/input/misc/drv2667.ko drivers/input/misc/drv2667.o drivers/input/misc/drv2667.mod.o

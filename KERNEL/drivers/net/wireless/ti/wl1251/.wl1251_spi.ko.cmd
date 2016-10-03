@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/ti/wl1251/wl1251_spi.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/wireless/ti/wl1251/wl1251_spi.ko drivers/net/wireless/ti/wl1251/wl1251_spi.o drivers/net/wireless/ti/wl1251/wl1251_spi.mod.o

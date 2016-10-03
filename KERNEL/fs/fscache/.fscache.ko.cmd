@@ -1,0 +1,1 @@
+cmd_fs/fscache/fscache.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o fs/fscache/fscache.ko fs/fscache/fscache.o fs/fscache/fscache.mod.o

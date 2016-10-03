@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/smscufx.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/video/fbdev/smscufx.ko drivers/video/fbdev/smscufx.o drivers/video/fbdev/smscufx.mod.o

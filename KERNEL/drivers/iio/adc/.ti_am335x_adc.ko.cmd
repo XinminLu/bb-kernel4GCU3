@@ -1,0 +1,1 @@
+cmd_drivers/iio/adc/ti_am335x_adc.ko := /home/xinmin/work_kernel/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/iio/adc/ti_am335x_adc.ko drivers/iio/adc/ti_am335x_adc.o drivers/iio/adc/ti_am335x_adc.mod.o

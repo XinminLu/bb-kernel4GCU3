@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/lm83.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/hwmon/lm83.ko drivers/hwmon/lm83.o drivers/hwmon/lm83.mod.o

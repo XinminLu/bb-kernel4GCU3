@@ -1,0 +1,1 @@
+cmd_drivers/gpio/gpio-mc33880.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/gpio/gpio-mc33880.ko drivers/gpio/gpio-mc33880.o drivers/gpio/gpio-mc33880.mod.o

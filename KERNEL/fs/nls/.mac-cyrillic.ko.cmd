@@ -1,0 +1,1 @@
+cmd_fs/nls/mac-cyrillic.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o fs/nls/mac-cyrillic.ko fs/nls/mac-cyrillic.o fs/nls/mac-cyrillic.mod.o

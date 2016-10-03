@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/da9052_tsi.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/input/touchscreen/da9052_tsi.ko drivers/input/touchscreen/da9052_tsi.o drivers/input/touchscreen/da9052_tsi.mod.o

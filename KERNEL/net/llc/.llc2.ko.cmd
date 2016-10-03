@@ -1,0 +1,1 @@
+cmd_net/llc/llc2.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o net/llc/llc2.ko net/llc/llc2.o net/llc/llc2.mod.o

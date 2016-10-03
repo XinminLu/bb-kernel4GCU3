@@ -1,0 +1,1 @@
+cmd_drivers/leds/leds-lp55xx-common.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/leds/leds-lp55xx-common.ko drivers/leds/leds-lp55xx-common.o drivers/leds/leds-lp55xx-common.mod.o

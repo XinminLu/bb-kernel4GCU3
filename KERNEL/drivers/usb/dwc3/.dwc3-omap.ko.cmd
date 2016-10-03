@@ -1,0 +1,1 @@
+cmd_drivers/usb/dwc3/dwc3-omap.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/usb/dwc3/dwc3-omap.ko drivers/usb/dwc3/dwc3-omap.o drivers/usb/dwc3/dwc3-omap.mod.o

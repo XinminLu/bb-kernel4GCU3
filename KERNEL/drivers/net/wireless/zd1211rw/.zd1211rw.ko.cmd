@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/zd1211rw/zd1211rw.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/wireless/zd1211rw/zd1211rw.ko drivers/net/wireless/zd1211rw/zd1211rw.o drivers/net/wireless/zd1211rw/zd1211rw.mod.o

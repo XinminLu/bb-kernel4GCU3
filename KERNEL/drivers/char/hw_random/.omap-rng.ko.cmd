@@ -1,0 +1,1 @@
+cmd_drivers/char/hw_random/omap-rng.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/char/hw_random/omap-rng.ko drivers/char/hw_random/omap-rng.o drivers/char/hw_random/omap-rng.mod.o

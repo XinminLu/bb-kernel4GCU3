@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/safe_serial.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/usb/serial/safe_serial.ko drivers/usb/serial/safe_serial.o drivers/usb/serial/safe_serial.mod.o

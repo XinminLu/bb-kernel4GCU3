@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/da9055-hwmon.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/hwmon/da9055-hwmon.ko drivers/hwmon/da9055-hwmon.o drivers/hwmon/da9055-hwmon.mod.o

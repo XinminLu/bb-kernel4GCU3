@@ -1,0 +1,1 @@
+cmd_drivers/net/usb/gl620a.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/usb/gl620a.ko drivers/net/usb/gl620a.o drivers/net/usb/gl620a.mod.o

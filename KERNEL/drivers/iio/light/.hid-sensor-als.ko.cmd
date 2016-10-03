@@ -1,0 +1,1 @@
+cmd_drivers/iio/light/hid-sensor-als.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/iio/light/hid-sensor-als.ko drivers/iio/light/hid-sensor-als.o drivers/iio/light/hid-sensor-als.mod.o

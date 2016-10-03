@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/f71882fg.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/hwmon/f71882fg.ko drivers/hwmon/f71882fg.o drivers/hwmon/f71882fg.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/scsi/scsi_transport_fc.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/scsi/scsi_transport_fc.ko drivers/scsi/scsi_transport_fc.o drivers/scsi/scsi_transport_fc.mod.o

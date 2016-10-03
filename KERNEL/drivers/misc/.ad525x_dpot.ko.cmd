@@ -1,0 +1,1 @@
+cmd_drivers/misc/ad525x_dpot.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/misc/ad525x_dpot.ko drivers/misc/ad525x_dpot.o drivers/misc/ad525x_dpot.mod.o

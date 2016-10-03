@@ -1,0 +1,1 @@
+cmd_drivers/usb/storage/ums-sddr09.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/usb/storage/ums-sddr09.ko drivers/usb/storage/ums-sddr09.o drivers/usb/storage/ums-sddr09.mod.o

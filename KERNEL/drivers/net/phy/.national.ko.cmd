@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/national.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/phy/national.ko drivers/net/phy/national.o drivers/net/phy/national.mod.o

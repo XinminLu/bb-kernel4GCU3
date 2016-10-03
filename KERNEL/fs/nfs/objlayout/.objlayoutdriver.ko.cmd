@@ -1,0 +1,1 @@
+cmd_fs/nfs/objlayout/objlayoutdriver.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o fs/nfs/objlayout/objlayoutdriver.ko fs/nfs/objlayout/objlayoutdriver.o fs/nfs/objlayout/objlayoutdriver.mod.o

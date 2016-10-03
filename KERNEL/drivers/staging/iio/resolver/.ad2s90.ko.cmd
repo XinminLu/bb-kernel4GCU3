@@ -1,0 +1,1 @@
+cmd_drivers/staging/iio/resolver/ad2s90.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/staging/iio/resolver/ad2s90.ko drivers/staging/iio/resolver/ad2s90.o drivers/staging/iio/resolver/ad2s90.mod.o

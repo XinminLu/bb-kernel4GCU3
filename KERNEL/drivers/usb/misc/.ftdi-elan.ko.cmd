@@ -1,0 +1,1 @@
+cmd_drivers/usb/misc/ftdi-elan.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/usb/misc/ftdi-elan.ko drivers/usb/misc/ftdi-elan.o drivers/usb/misc/ftdi-elan.mod.o

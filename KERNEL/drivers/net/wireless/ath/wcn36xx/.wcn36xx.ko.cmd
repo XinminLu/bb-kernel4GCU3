@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/ath/wcn36xx/wcn36xx.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/wireless/ath/wcn36xx/wcn36xx.ko drivers/net/wireless/ath/wcn36xx/wcn36xx.o drivers/net/wireless/ath/wcn36xx/wcn36xx.mod.o

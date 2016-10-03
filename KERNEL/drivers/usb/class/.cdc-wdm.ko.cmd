@@ -1,0 +1,1 @@
+cmd_drivers/usb/class/cdc-wdm.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/usb/class/cdc-wdm.ko drivers/usb/class/cdc-wdm.o drivers/usb/class/cdc-wdm.mod.o

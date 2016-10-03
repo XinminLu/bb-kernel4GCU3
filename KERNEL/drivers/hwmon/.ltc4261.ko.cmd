@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/ltc4261.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/hwmon/ltc4261.ko drivers/hwmon/ltc4261.o drivers/hwmon/ltc4261.mod.o

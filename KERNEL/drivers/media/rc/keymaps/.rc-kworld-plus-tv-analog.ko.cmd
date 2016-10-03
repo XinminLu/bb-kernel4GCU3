@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/keymaps/rc-kworld-plus-tv-analog.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/media/rc/keymaps/rc-kworld-plus-tv-analog.ko drivers/media/rc/keymaps/rc-kworld-plus-tv-analog.o drivers/media/rc/keymaps/rc-kworld-plus-tv-analog.mod.o

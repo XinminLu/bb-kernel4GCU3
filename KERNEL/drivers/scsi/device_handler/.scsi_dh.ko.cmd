@@ -1,0 +1,1 @@
+cmd_drivers/scsi/device_handler/scsi_dh.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/scsi/device_handler/scsi_dh.ko drivers/scsi/device_handler/scsi_dh.o drivers/scsi/device_handler/scsi_dh.mod.o

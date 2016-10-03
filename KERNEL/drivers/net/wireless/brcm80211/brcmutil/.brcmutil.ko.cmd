@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/brcm80211/brcmutil/brcmutil.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/wireless/brcm80211/brcmutil/brcmutil.ko drivers/net/wireless/brcm80211/brcmutil/brcmutil.o drivers/net/wireless/brcm80211/brcmutil/brcmutil.mod.o

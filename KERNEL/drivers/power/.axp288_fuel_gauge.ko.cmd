@@ -1,0 +1,1 @@
+cmd_drivers/power/axp288_fuel_gauge.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/power/axp288_fuel_gauge.ko drivers/power/axp288_fuel_gauge.o drivers/power/axp288_fuel_gauge.mod.o

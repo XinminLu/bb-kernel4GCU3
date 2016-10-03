@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/stk1160/stk1160.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/media/usb/stk1160/stk1160.ko drivers/media/usb/stk1160/stk1160.o drivers/media/usb/stk1160/stk1160.mod.o

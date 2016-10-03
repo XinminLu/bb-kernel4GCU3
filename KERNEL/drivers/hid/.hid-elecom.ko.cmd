@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-elecom.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/hid/hid-elecom.ko drivers/hid/hid-elecom.o drivers/hid/hid-elecom.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/pmbus/tps40422.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/hwmon/pmbus/tps40422.ko drivers/hwmon/pmbus/tps40422.o drivers/hwmon/pmbus/tps40422.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/mfd/mc13xxx-spi.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/mfd/mc13xxx-spi.ko drivers/mfd/mc13xxx-spi.o drivers/mfd/mc13xxx-spi.mod.o

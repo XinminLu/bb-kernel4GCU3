@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/thmc50.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/hwmon/thmc50.ko drivers/hwmon/thmc50.o drivers/hwmon/thmc50.mod.o

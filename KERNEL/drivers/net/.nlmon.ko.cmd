@@ -1,0 +1,1 @@
+cmd_drivers/net/nlmon.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/nlmon.ko drivers/net/nlmon.o drivers/net/nlmon.mod.o

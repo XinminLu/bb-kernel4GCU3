@@ -1,0 +1,1 @@
+cmd_drivers/md/dm-log.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/md/dm-log.ko drivers/md/dm-log.o drivers/md/dm-log.mod.o

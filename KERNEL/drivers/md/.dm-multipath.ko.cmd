@@ -1,0 +1,1 @@
+cmd_drivers/md/dm-multipath.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/md/dm-multipath.ko drivers/md/dm-multipath.o drivers/md/dm-multipath.mod.o

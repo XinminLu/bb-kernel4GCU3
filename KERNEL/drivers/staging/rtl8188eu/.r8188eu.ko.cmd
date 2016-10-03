@@ -1,0 +1,1 @@
+cmd_drivers/staging/rtl8188eu/r8188eu.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/staging/rtl8188eu/r8188eu.ko drivers/staging/rtl8188eu/r8188eu.o drivers/staging/rtl8188eu/r8188eu.mod.o

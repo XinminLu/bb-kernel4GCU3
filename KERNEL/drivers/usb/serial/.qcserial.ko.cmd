@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/qcserial.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/usb/serial/qcserial.ko drivers/usb/serial/qcserial.o drivers/usb/serial/qcserial.mod.o

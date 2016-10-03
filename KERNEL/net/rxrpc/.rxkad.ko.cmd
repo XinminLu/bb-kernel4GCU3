@@ -1,0 +1,1 @@
+cmd_net/rxrpc/rxkad.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o net/rxrpc/rxkad.ko net/rxrpc/rxkad.o net/rxrpc/rxkad.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/rtc/rtc-rs5c348.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/rtc/rtc-rs5c348.ko drivers/rtc/rtc-rs5c348.o drivers/rtc/rtc-rs5c348.mod.o

@@ -1,0 +1,1 @@
+cmd_net/sched/act_csum.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o net/sched/act_csum.ko net/sched/act_csum.o net/sched/act_csum.mod.o

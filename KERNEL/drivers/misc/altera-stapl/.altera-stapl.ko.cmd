@@ -1,0 +1,1 @@
+cmd_drivers/misc/altera-stapl/altera-stapl.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/misc/altera-stapl/altera-stapl.ko drivers/misc/altera-stapl/altera-stapl.o drivers/misc/altera-stapl/altera-stapl.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/md/raid1.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/md/raid1.ko drivers/md/raid1.o drivers/md/raid1.mod.o

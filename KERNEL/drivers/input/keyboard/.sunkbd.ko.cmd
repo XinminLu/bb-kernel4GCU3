@@ -1,0 +1,1 @@
+cmd_drivers/input/keyboard/sunkbd.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/input/keyboard/sunkbd.ko drivers/input/keyboard/sunkbd.o drivers/input/keyboard/sunkbd.mod.o

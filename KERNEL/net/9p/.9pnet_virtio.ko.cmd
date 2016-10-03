@@ -1,0 +1,1 @@
+cmd_net/9p/9pnet_virtio.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o net/9p/9pnet_virtio.ko net/9p/9pnet_virtio.o net/9p/9pnet_virtio.mod.o

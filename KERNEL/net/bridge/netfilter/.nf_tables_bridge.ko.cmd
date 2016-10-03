@@ -1,0 +1,1 @@
+cmd_net/bridge/netfilter/nf_tables_bridge.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o net/bridge/netfilter/nf_tables_bridge.ko net/bridge/netfilter/nf_tables_bridge.o net/bridge/netfilter/nf_tables_bridge.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/gl518sm.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/hwmon/gl518sm.ko drivers/hwmon/gl518sm.o drivers/hwmon/gl518sm.mod.o

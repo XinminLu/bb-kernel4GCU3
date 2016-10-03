@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/legacy/g_ffs.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/usb/gadget/legacy/g_ffs.ko drivers/usb/gadget/legacy/g_ffs.o drivers/usb/gadget/legacy/g_ffs.mod.o

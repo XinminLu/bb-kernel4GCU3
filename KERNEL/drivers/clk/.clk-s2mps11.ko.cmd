@@ -1,0 +1,1 @@
+cmd_drivers/clk/clk-s2mps11.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/clk/clk-s2mps11.ko drivers/clk/clk-s2mps11.o drivers/clk/clk-s2mps11.mod.o

@@ -1,0 +1,1 @@
+cmd_net/802/mrp.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o net/802/mrp.ko net/802/mrp.o net/802/mrp.mod.o

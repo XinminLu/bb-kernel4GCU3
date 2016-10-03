@@ -1,0 +1,1 @@
+cmd_drivers/misc/eeprom/eeprom_93xx46.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/misc/eeprom/eeprom_93xx46.ko drivers/misc/eeprom/eeprom_93xx46.o drivers/misc/eeprom/eeprom_93xx46.mod.o

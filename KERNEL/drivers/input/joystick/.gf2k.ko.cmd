@@ -1,0 +1,1 @@
+cmd_drivers/input/joystick/gf2k.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/input/joystick/gf2k.ko drivers/input/joystick/gf2k.o drivers/input/joystick/gf2k.mod.o

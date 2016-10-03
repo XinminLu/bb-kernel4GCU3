@@ -1,0 +1,1 @@
+cmd_drivers/net/ieee802154/cc2520.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/ieee802154/cc2520.ko drivers/net/ieee802154/cc2520.o drivers/net/ieee802154/cc2520.mod.o

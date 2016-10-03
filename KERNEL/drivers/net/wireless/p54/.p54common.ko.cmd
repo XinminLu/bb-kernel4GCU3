@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/p54/p54common.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/wireless/p54/p54common.ko drivers/net/wireless/p54/p54common.o drivers/net/wireless/p54/p54common.mod.o

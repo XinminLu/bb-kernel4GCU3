@@ -1,0 +1,1 @@
+cmd_drivers/net/wimax/i2400m/i2400m.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/wimax/i2400m/i2400m.ko drivers/net/wimax/i2400m/i2400m.o drivers/net/wimax/i2400m/i2400m.mod.o

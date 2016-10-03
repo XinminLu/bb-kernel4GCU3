@@ -1,0 +1,1 @@
+cmd_net/sched/sch_fq.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o net/sched/sch_fq.ko net/sched/sch_fq.o net/sched/sch_fq.mod.o

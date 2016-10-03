@@ -1,0 +1,1 @@
+cmd_sound/core/snd-pcm-dmaengine.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o sound/core/snd-pcm-dmaengine.ko sound/core/snd-pcm-dmaengine.o sound/core/snd-pcm-dmaengine.mod.o

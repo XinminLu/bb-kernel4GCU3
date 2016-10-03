@@ -1,0 +1,1 @@
+cmd_drivers/media/tuners/si2157.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/media/tuners/si2157.ko drivers/media/tuners/si2157.o drivers/media/tuners/si2157.mod.o

@@ -1,0 +1,1 @@
+cmd_net/6lowpan/nhc_fragment.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o net/6lowpan/nhc_fragment.ko net/6lowpan/nhc_fragment.o net/6lowpan/nhc_fragment.mod.o

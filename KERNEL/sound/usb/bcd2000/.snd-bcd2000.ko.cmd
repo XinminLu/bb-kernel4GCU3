@@ -1,0 +1,1 @@
+cmd_sound/usb/bcd2000/snd-bcd2000.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o sound/usb/bcd2000/snd-bcd2000.ko sound/usb/bcd2000/snd-bcd2000.o sound/usb/bcd2000/snd-bcd2000.mod.o

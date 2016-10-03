@@ -1,0 +1,1 @@
+cmd_net/bridge/netfilter/nft_meta_bridge.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o net/bridge/netfilter/nft_meta_bridge.ko net/bridge/netfilter/nft_meta_bridge.o net/bridge/netfilter/nft_meta_bridge.mod.o

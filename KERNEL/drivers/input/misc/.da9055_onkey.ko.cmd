@@ -1,0 +1,1 @@
+cmd_drivers/input/misc/da9055_onkey.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/input/misc/da9055_onkey.ko drivers/input/misc/da9055_onkey.o drivers/input/misc/da9055_onkey.mod.o

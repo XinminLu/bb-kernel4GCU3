@@ -1,0 +1,1 @@
+cmd_drivers/iio/magnetometer/st_magn_spi.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/iio/magnetometer/st_magn_spi.ko drivers/iio/magnetometer/st_magn_spi.o drivers/iio/magnetometer/st_magn_spi.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/usb/storage/ums-realtek.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/usb/storage/ums-realtek.ko drivers/usb/storage/ums-realtek.o drivers/usb/storage/ums-realtek.mod.o

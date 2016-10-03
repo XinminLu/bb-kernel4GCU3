@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/soc_camera/soc_camera.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/media/platform/soc_camera/soc_camera.ko drivers/media/platform/soc_camera/soc_camera.o drivers/media/platform/soc_camera/soc_camera.mod.o

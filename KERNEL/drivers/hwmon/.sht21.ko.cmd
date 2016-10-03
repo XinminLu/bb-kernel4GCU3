@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/sht21.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/hwmon/sht21.ko drivers/hwmon/sht21.o drivers/hwmon/sht21.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/media/radio/tea575x.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/media/radio/tea575x.ko drivers/media/radio/tea575x.o drivers/media/radio/tea575x.mod.o

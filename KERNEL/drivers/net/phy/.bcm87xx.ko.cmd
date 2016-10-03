@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/bcm87xx.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/phy/bcm87xx.ko drivers/net/phy/bcm87xx.o drivers/net/phy/bcm87xx.mod.o

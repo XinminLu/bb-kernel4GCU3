@@ -1,0 +1,1 @@
+cmd_sound/core/seq/snd-seq-midi.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o sound/core/seq/snd-seq-midi.ko sound/core/seq/snd-seq-midi.o sound/core/seq/snd-seq-midi.mod.o

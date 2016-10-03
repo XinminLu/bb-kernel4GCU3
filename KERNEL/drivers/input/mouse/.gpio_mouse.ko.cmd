@@ -1,0 +1,1 @@
+cmd_drivers/input/mouse/gpio_mouse.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/input/mouse/gpio_mouse.ko drivers/input/mouse/gpio_mouse.o drivers/input/mouse/gpio_mouse.mod.o

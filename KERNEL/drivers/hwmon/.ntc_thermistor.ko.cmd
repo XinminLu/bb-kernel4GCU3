@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/ntc_thermistor.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/hwmon/ntc_thermistor.ko drivers/hwmon/ntc_thermistor.o drivers/hwmon/ntc_thermistor.mod.o

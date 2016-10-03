@@ -1,0 +1,1 @@
+cmd_drivers/mmc/host/vub300.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/mmc/host/vub300.ko drivers/mmc/host/vub300.o drivers/mmc/host/vub300.mod.o

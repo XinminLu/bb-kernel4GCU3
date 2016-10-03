@@ -1,0 +1,1 @@
+cmd_drivers/iio/common/ssp_sensors/sensorhub.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/iio/common/ssp_sensors/sensorhub.ko drivers/iio/common/ssp_sensors/sensorhub.o drivers/iio/common/ssp_sensors/sensorhub.mod.o

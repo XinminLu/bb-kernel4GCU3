@@ -1,0 +1,1 @@
+cmd_net/netfilter/xt_AUDIT.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o net/netfilter/xt_AUDIT.ko net/netfilter/xt_AUDIT.o net/netfilter/xt_AUDIT.mod.o

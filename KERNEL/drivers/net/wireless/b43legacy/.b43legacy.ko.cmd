@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/b43legacy/b43legacy.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/wireless/b43legacy/b43legacy.ko drivers/net/wireless/b43legacy/b43legacy.o drivers/net/wireless/b43legacy/b43legacy.mod.o

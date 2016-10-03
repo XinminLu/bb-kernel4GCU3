@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/rtlwifi/rtl8192c/rtl8192c-common.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/wireless/rtlwifi/rtl8192c/rtl8192c-common.ko drivers/net/wireless/rtlwifi/rtl8192c/rtl8192c-common.o drivers/net/wireless/rtlwifi/rtl8192c/rtl8192c-common.mod.o

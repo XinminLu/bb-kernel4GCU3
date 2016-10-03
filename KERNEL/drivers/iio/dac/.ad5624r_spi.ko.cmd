@@ -1,0 +1,1 @@
+cmd_drivers/iio/dac/ad5624r_spi.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/iio/dac/ad5624r_spi.ko drivers/iio/dac/ad5624r_spi.o drivers/iio/dac/ad5624r_spi.mod.o

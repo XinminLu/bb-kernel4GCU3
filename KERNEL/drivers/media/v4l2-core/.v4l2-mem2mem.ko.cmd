@@ -1,0 +1,1 @@
+cmd_drivers/media/v4l2-core/v4l2-mem2mem.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/media/v4l2-core/v4l2-mem2mem.ko drivers/media/v4l2-core/v4l2-mem2mem.o drivers/media/v4l2-core/v4l2-mem2mem.mod.o

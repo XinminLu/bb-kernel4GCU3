@@ -1,0 +1,1 @@
+cmd_drivers/net/ppp/ppp_synctty.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/ppp/ppp_synctty.ko drivers/net/ppp/ppp_synctty.o drivers/net/ppp/ppp_synctty.mod.o

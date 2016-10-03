@@ -1,0 +1,1 @@
+cmd_drivers/gpio/gpio-adp5588.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/gpio/gpio-adp5588.ko drivers/gpio/gpio-adp5588.o drivers/gpio/gpio-adp5588.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/input/joystick/grip_mp.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/input/joystick/grip_mp.ko drivers/input/joystick/grip_mp.o drivers/input/joystick/grip_mp.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/net/can/sja1000/sja1000.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/can/sja1000/sja1000.ko drivers/net/can/sja1000/sja1000.o drivers/net/can/sja1000/sja1000.mod.o

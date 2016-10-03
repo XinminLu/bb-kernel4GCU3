@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/wacom_w8001.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/input/touchscreen/wacom_w8001.ko drivers/input/touchscreen/wacom_w8001.o drivers/input/touchscreen/wacom_w8001.mod.o

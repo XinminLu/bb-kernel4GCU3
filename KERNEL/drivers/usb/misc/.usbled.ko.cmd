@@ -1,0 +1,1 @@
+cmd_drivers/usb/misc/usbled.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/usb/misc/usbled.ko drivers/usb/misc/usbled.o drivers/usb/misc/usbled.mod.o

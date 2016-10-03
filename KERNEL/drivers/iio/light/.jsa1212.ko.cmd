@@ -1,0 +1,1 @@
+cmd_drivers/iio/light/jsa1212.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/iio/light/jsa1212.ko drivers/iio/light/jsa1212.o drivers/iio/light/jsa1212.mod.o

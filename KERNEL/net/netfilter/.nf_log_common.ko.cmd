@@ -1,0 +1,1 @@
+cmd_net/netfilter/nf_log_common.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o net/netfilter/nf_log_common.ko net/netfilter/nf_log_common.o net/netfilter/nf_log_common.mod.o

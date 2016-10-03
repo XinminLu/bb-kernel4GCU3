@@ -1,0 +1,1 @@
+cmd_drivers/iio/common/st_sensors/st_sensors.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/iio/common/st_sensors/st_sensors.ko drivers/iio/common/st_sensors/st_sensors.o drivers/iio/common/st_sensors/st_sensors.mod.o

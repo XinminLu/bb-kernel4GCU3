@@ -1,0 +1,1 @@
+cmd_drivers/mfd/mc13xxx-core.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/mfd/mc13xxx-core.ko drivers/mfd/mc13xxx-core.o drivers/mfd/mc13xxx-core.mod.o

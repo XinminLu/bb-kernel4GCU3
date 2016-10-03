@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/gl520sm.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/hwmon/gl520sm.ko drivers/hwmon/gl520sm.o drivers/hwmon/gl520sm.mod.o

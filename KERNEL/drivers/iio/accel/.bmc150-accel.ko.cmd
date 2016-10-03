@@ -1,0 +1,1 @@
+cmd_drivers/iio/accel/bmc150-accel.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/iio/accel/bmc150-accel.ko drivers/iio/accel/bmc150-accel.o drivers/iio/accel/bmc150-accel.mod.o

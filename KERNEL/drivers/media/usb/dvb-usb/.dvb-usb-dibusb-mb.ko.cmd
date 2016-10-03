@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/dvb-usb/dvb-usb-dibusb-mb.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/media/usb/dvb-usb/dvb-usb-dibusb-mb.ko drivers/media/usb/dvb-usb/dvb-usb-dibusb-mb.o drivers/media/usb/dvb-usb/dvb-usb-dibusb-mb.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/media/tuners/mxl5007t.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/media/tuners/mxl5007t.ko drivers/media/tuners/mxl5007t.o drivers/media/tuners/mxl5007t.mod.o

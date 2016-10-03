@@ -1,0 +1,1 @@
+cmd_net/netfilter/ipvs/ip_vs_sh.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o net/netfilter/ipvs/ip_vs_sh.ko net/netfilter/ipvs/ip_vs_sh.o net/netfilter/ipvs/ip_vs_sh.mod.o

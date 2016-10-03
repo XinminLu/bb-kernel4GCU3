@@ -1,0 +1,1 @@
+cmd_drivers/target/target_core_pscsi.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/target/target_core_pscsi.ko drivers/target/target_core_pscsi.o drivers/target/target_core_pscsi.mod.o

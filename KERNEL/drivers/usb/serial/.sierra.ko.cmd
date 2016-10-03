@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/sierra.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/usb/serial/sierra.ko drivers/usb/serial/sierra.o drivers/usb/serial/sierra.mod.o

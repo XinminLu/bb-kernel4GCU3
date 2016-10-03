@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/w83l786ng.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/hwmon/w83l786ng.ko drivers/hwmon/w83l786ng.o drivers/hwmon/w83l786ng.mod.o

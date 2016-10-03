@@ -1,0 +1,1 @@
+cmd_drivers/iio/adc/ad7791.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/iio/adc/ad7791.ko drivers/iio/adc/ad7791.o drivers/iio/adc/ad7791.mod.o

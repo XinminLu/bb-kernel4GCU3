@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/ati_remote.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/media/rc/ati_remote.ko drivers/media/rc/ati_remote.o drivers/media/rc/ati_remote.mod.o

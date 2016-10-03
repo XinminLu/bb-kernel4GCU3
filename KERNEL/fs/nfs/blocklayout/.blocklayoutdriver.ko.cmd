@@ -1,0 +1,1 @@
+cmd_fs/nfs/blocklayout/blocklayoutdriver.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o fs/nfs/blocklayout/blocklayoutdriver.ko fs/nfs/blocklayout/blocklayoutdriver.o fs/nfs/blocklayout/blocklayoutdriver.mod.o

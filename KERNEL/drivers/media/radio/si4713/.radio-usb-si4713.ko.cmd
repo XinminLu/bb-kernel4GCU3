@@ -1,0 +1,1 @@
+cmd_drivers/media/radio/si4713/radio-usb-si4713.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/media/radio/si4713/radio-usb-si4713.ko drivers/media/radio/si4713/radio-usb-si4713.o drivers/media/radio/si4713/radio-usb-si4713.mod.o

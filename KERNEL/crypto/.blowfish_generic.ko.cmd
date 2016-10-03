@@ -1,0 +1,1 @@
+cmd_crypto/blowfish_generic.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o crypto/blowfish_generic.ko crypto/blowfish_generic.o crypto/blowfish_generic.mod.o

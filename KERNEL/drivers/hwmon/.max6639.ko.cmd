@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/max6639.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/hwmon/max6639.ko drivers/hwmon/max6639.o drivers/hwmon/max6639.mod.o

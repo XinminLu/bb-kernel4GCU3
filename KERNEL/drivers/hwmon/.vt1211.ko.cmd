@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/vt1211.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/hwmon/vt1211.ko drivers/hwmon/vt1211.o drivers/hwmon/vt1211.mod.o

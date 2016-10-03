@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/keymaps/rc-nec-terratec-cinergy-xs.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/media/rc/keymaps/rc-nec-terratec-cinergy-xs.ko drivers/media/rc/keymaps/rc-nec-terratec-cinergy-xs.o drivers/media/rc/keymaps/rc-nec-terratec-cinergy-xs.mod.o

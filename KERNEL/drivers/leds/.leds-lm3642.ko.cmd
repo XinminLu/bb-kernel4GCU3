@@ -1,0 +1,1 @@
+cmd_drivers/leds/leds-lm3642.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/leds/leds-lm3642.ko drivers/leds/leds-lm3642.o drivers/leds/leds-lm3642.mod.o

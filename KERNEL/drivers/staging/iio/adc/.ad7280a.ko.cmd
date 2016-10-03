@@ -1,0 +1,1 @@
+cmd_drivers/staging/iio/adc/ad7280a.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/staging/iio/adc/ad7280a.ko drivers/staging/iio/adc/ad7280a.o drivers/staging/iio/adc/ad7280a.mod.o

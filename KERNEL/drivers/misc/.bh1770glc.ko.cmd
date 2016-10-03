@@ -1,0 +1,1 @@
+cmd_drivers/misc/bh1770glc.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/misc/bh1770glc.ko drivers/misc/bh1770glc.o drivers/misc/bh1770glc.mod.o

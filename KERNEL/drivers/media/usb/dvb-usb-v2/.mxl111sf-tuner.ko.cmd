@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/dvb-usb-v2/mxl111sf-tuner.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/media/usb/dvb-usb-v2/mxl111sf-tuner.ko drivers/media/usb/dvb-usb-v2/mxl111sf-tuner.o drivers/media/usb/dvb-usb-v2/mxl111sf-tuner.mod.o

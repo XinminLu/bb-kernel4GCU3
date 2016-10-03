@@ -1,0 +1,1 @@
+cmd_drivers/block/null_blk.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/block/null_blk.ko drivers/block/null_blk.o drivers/block/null_blk.mod.o

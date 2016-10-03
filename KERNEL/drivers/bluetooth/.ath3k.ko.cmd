@@ -1,0 +1,1 @@
+cmd_drivers/bluetooth/ath3k.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/bluetooth/ath3k.ko drivers/bluetooth/ath3k.o drivers/bluetooth/ath3k.mod.o

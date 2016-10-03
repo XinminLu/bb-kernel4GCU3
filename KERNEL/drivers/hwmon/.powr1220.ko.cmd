@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/powr1220.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/hwmon/powr1220.ko drivers/hwmon/powr1220.o drivers/hwmon/powr1220.mod.o

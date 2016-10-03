@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/emc6w201.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/hwmon/emc6w201.ko drivers/hwmon/emc6w201.o drivers/hwmon/emc6w201.mod.o

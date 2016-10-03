@@ -1,0 +1,1 @@
+cmd_drivers/iio/imu/adis_lib.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/iio/imu/adis_lib.ko drivers/iio/imu/adis_lib.o drivers/iio/imu/adis_lib.mod.o

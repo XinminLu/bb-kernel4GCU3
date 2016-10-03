@@ -1,0 +1,1 @@
+cmd_drivers/staging/rtl8712/r8712u.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/staging/rtl8712/r8712u.ko drivers/staging/rtl8712/r8712u.o drivers/staging/rtl8712/r8712u.mod.o

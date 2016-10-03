@@ -1,0 +1,1 @@
+cmd_sound/soc/fsl/snd-soc-fsl-ssi.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o sound/soc/fsl/snd-soc-fsl-ssi.ko sound/soc/fsl/snd-soc-fsl-ssi.o sound/soc/fsl/snd-soc-fsl-ssi.mod.o

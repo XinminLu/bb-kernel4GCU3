@@ -1,0 +1,1 @@
+cmd_drivers/pwm/pwm-tiehrpwm.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/pwm/pwm-tiehrpwm.ko drivers/pwm/pwm-tiehrpwm.o drivers/pwm/pwm-tiehrpwm.mod.o

@@ -1,0 +1,1 @@
+cmd_net/atm/lec.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o net/atm/lec.ko net/atm/lec.o net/atm/lec.mod.o

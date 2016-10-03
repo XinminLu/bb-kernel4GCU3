@@ -1,0 +1,1 @@
+cmd_drivers/mtd/chips/map_ram.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/mtd/chips/map_ram.ko drivers/mtd/chips/map_ram.o drivers/mtd/chips/map_ram.mod.o

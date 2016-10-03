@@ -1,0 +1,1 @@
+cmd_drivers/usb/class/cdc-acm.ko := /home/xinmin/work_kernel/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/usb/class/cdc-acm.ko drivers/usb/class/cdc-acm.o drivers/usb/class/cdc-acm.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/input/joystick/spaceorb.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/input/joystick/spaceorb.ko drivers/input/joystick/spaceorb.o drivers/input/joystick/spaceorb.mod.o

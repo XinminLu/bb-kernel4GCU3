@@ -1,0 +1,1 @@
+cmd_drivers/input/keyboard/cap11xx.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/input/keyboard/cap11xx.ko drivers/input/keyboard/cap11xx.o drivers/input/keyboard/cap11xx.mod.o

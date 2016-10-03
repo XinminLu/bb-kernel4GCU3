@@ -1,0 +1,1 @@
+cmd_drivers/i2c/busses/i2c-robotfuzz-osif.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/i2c/busses/i2c-robotfuzz-osif.ko drivers/i2c/busses/i2c-robotfuzz-osif.o drivers/i2c/busses/i2c-robotfuzz-osif.mod.o

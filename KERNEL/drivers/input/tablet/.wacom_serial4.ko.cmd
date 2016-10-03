@@ -1,0 +1,1 @@
+cmd_drivers/input/tablet/wacom_serial4.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/input/tablet/wacom_serial4.ko drivers/input/tablet/wacom_serial4.o drivers/input/tablet/wacom_serial4.mod.o

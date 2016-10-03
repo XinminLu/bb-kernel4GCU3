@@ -1,0 +1,1 @@
+cmd_drivers/scsi/libiscsi_tcp.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/scsi/libiscsi_tcp.ko drivers/scsi/libiscsi_tcp.o drivers/scsi/libiscsi_tcp.mod.o

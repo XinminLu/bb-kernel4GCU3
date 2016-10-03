@@ -1,0 +1,1 @@
+cmd_drivers/mtd/lpddr/qinfo_probe.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/mtd/lpddr/qinfo_probe.ko drivers/mtd/lpddr/qinfo_probe.o drivers/mtd/lpddr/qinfo_probe.mod.o

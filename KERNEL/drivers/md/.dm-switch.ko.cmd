@@ -1,0 +1,1 @@
+cmd_drivers/md/dm-switch.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/md/dm-switch.ko drivers/md/dm-switch.o drivers/md/dm-switch.mod.o

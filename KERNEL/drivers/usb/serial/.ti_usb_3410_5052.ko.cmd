@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/ti_usb_3410_5052.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/usb/serial/ti_usb_3410_5052.ko drivers/usb/serial/ti_usb_3410_5052.o drivers/usb/serial/ti_usb_3410_5052.mod.o

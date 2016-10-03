@@ -1,0 +1,1 @@
+cmd_drivers/tty/n_gsm.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/tty/n_gsm.ko drivers/tty/n_gsm.o drivers/tty/n_gsm.mod.o

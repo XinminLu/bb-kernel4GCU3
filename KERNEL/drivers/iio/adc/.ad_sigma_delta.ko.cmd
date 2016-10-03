@@ -1,0 +1,1 @@
+cmd_drivers/iio/adc/ad_sigma_delta.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/iio/adc/ad_sigma_delta.ko drivers/iio/adc/ad_sigma_delta.o drivers/iio/adc/ad_sigma_delta.mod.o

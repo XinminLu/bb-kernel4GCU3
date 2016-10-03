@@ -1,0 +1,1 @@
+cmd_drivers/leds/leds-lp3944.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/leds/leds-lp3944.ko drivers/leds/leds-lp3944.o drivers/leds/leds-lp3944.mod.o

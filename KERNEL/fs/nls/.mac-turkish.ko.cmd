@@ -1,0 +1,1 @@
+cmd_fs/nls/mac-turkish.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o fs/nls/mac-turkish.ko fs/nls/mac-turkish.o fs/nls/mac-turkish.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/usb-serial-simple.ko := /home/xinmin/work_kernel/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/usb/serial/usb-serial-simple.ko drivers/usb/serial/usb-serial-simple.o drivers/usb/serial/usb-serial-simple.mod.o

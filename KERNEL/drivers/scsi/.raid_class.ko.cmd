@@ -1,0 +1,1 @@
+cmd_drivers/scsi/raid_class.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/scsi/raid_class.ko drivers/scsi/raid_class.o drivers/scsi/raid_class.mod.o

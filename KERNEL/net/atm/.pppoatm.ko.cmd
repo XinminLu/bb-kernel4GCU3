@@ -1,0 +1,1 @@
+cmd_net/atm/pppoatm.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o net/atm/pppoatm.ko net/atm/pppoatm.o net/atm/pppoatm.mod.o

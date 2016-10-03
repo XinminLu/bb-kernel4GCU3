@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/rt2x00/rt2800usb.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/wireless/rt2x00/rt2800usb.ko drivers/net/wireless/rt2x00/rt2800usb.o drivers/net/wireless/rt2x00/rt2800usb.mod.o

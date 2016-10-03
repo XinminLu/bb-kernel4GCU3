@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/g760a.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/hwmon/g760a.ko drivers/hwmon/g760a.o drivers/hwmon/g760a.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/dvb-usb/dvb-usb-gp8psk.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/media/usb/dvb-usb/dvb-usb-gp8psk.ko drivers/media/usb/dvb-usb/dvb-usb-gp8psk.o drivers/media/usb/dvb-usb/dvb-usb-gp8psk.mod.o

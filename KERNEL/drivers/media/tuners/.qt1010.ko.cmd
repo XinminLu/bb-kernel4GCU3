@@ -1,0 +1,1 @@
+cmd_drivers/media/tuners/qt1010.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/media/tuners/qt1010.ko drivers/media/tuners/qt1010.o drivers/media/tuners/qt1010.mod.o

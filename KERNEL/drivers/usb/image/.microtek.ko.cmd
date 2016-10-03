@@ -1,0 +1,1 @@
+cmd_drivers/usb/image/microtek.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/usb/image/microtek.ko drivers/usb/image/microtek.o drivers/usb/image/microtek.mod.o

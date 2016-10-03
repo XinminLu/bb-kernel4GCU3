@@ -1,0 +1,1 @@
+cmd_fs/nfs/flexfilelayout/nfs_layout_flexfiles.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o fs/nfs/flexfilelayout/nfs_layout_flexfiles.ko fs/nfs/flexfilelayout/nfs_layout_flexfiles.o fs/nfs/flexfilelayout/nfs_layout_flexfiles.mod.o

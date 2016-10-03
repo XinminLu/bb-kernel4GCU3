@@ -1,0 +1,1 @@
+cmd_drivers/block/osdblk.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/block/osdblk.ko drivers/block/osdblk.o drivers/block/osdblk.mod.o

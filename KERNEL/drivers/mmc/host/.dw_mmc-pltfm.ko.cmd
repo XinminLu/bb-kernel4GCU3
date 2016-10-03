@@ -1,0 +1,1 @@
+cmd_drivers/mmc/host/dw_mmc-pltfm.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/mmc/host/dw_mmc-pltfm.ko drivers/mmc/host/dw_mmc-pltfm.o drivers/mmc/host/dw_mmc-pltfm.mod.o

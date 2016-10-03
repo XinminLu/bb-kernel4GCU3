@@ -1,0 +1,1 @@
+cmd_drivers/char/tpm/tpm_i2c_atmel.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/char/tpm/tpm_i2c_atmel.ko drivers/char/tpm/tpm_i2c_atmel.o drivers/char/tpm/tpm_i2c_atmel.mod.o

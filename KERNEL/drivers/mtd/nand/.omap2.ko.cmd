@@ -1,0 +1,1 @@
+cmd_drivers/mtd/nand/omap2.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/mtd/nand/omap2.ko drivers/mtd/nand/omap2.o drivers/mtd/nand/omap2.mod.o

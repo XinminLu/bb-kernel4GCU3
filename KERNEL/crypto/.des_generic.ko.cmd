@@ -1,0 +1,1 @@
+cmd_crypto/des_generic.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o crypto/des_generic.ko crypto/des_generic.o crypto/des_generic.mod.o

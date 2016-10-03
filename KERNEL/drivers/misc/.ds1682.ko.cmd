@@ -1,0 +1,1 @@
+cmd_drivers/misc/ds1682.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/misc/ds1682.ko drivers/misc/ds1682.o drivers/misc/ds1682.mod.o

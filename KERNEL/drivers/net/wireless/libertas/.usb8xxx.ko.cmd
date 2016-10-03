@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/libertas/usb8xxx.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/wireless/libertas/usb8xxx.ko drivers/net/wireless/libertas/usb8xxx.o drivers/net/wireless/libertas/usb8xxx.mod.o

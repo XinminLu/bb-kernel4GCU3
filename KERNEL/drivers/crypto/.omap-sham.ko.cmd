@@ -1,0 +1,1 @@
+cmd_drivers/crypto/omap-sham.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/crypto/omap-sham.ko drivers/crypto/omap-sham.o drivers/crypto/omap-sham.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/misc/c2port/core.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/misc/c2port/core.ko drivers/misc/c2port/core.o drivers/misc/c2port/core.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/net/ieee802154/at86rf230.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/ieee802154/at86rf230.ko drivers/net/ieee802154/at86rf230.o drivers/net/ieee802154/at86rf230.mod.o

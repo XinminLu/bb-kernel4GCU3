@@ -1,0 +1,1 @@
+cmd_drivers/target/target_core_mod.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/target/target_core_mod.ko drivers/target/target_core_mod.o drivers/target/target_core_mod.mod.o

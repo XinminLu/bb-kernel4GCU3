@@ -1,0 +1,1 @@
+cmd_drivers/rtc/rtc-tps65910.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/rtc/rtc-tps65910.ko drivers/rtc/rtc-tps65910.o drivers/rtc/rtc-tps65910.mod.o

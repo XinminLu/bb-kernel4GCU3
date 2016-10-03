@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/ir-lirc-codec.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/media/rc/ir-lirc-codec.ko drivers/media/rc/ir-lirc-codec.o drivers/media/rc/ir-lirc-codec.mod.o

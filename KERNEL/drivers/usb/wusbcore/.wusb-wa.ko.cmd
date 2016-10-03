@@ -1,0 +1,1 @@
+cmd_drivers/usb/wusbcore/wusb-wa.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/usb/wusbcore/wusb-wa.ko drivers/usb/wusbcore/wusb-wa.o drivers/usb/wusbcore/wusb-wa.mod.o

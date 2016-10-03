@@ -1,0 +1,1 @@
+cmd_net/sched/cls_rsvp6.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o net/sched/cls_rsvp6.ko net/sched/cls_rsvp6.o net/sched/cls_rsvp6.mod.o

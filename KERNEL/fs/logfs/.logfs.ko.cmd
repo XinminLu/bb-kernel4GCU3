@@ -1,0 +1,1 @@
+cmd_fs/logfs/logfs.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o fs/logfs/logfs.ko fs/logfs/logfs.o fs/logfs/logfs.mod.o

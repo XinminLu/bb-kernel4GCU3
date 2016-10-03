@@ -1,0 +1,1 @@
+cmd_drivers/w1/slaves/w1_ds2760.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/w1/slaves/w1_ds2760.ko drivers/w1/slaves/w1_ds2760.o drivers/w1/slaves/w1_ds2760.mod.o

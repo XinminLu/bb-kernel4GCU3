@@ -1,0 +1,1 @@
+cmd_drivers/net/team/team_mode_loadbalance.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/team/team_mode_loadbalance.ko drivers/net/team/team_mode_loadbalance.o drivers/net/team/team_mode_loadbalance.mod.o

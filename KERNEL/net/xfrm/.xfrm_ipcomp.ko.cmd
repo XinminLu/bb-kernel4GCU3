@@ -1,0 +1,1 @@
+cmd_net/xfrm/xfrm_ipcomp.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o net/xfrm/xfrm_ipcomp.ko net/xfrm/xfrm_ipcomp.o net/xfrm/xfrm_ipcomp.mod.o

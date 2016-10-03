@@ -1,0 +1,1 @@
+cmd_drivers/iio/light/adjd_s311.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/iio/light/adjd_s311.ko drivers/iio/light/adjd_s311.o drivers/iio/light/adjd_s311.mod.o

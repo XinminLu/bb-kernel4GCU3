@@ -1,0 +1,1 @@
+cmd_drivers/bluetooth/hci_uart.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/bluetooth/hci_uart.ko drivers/bluetooth/hci_uart.o drivers/bluetooth/hci_uart.mod.o

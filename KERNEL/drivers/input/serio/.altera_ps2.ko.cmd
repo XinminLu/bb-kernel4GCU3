@@ -1,0 +1,1 @@
+cmd_drivers/input/serio/altera_ps2.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/input/serio/altera_ps2.ko drivers/input/serio/altera_ps2.o drivers/input/serio/altera_ps2.mod.o

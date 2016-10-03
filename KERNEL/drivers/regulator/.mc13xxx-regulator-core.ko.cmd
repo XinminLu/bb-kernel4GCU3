@@ -1,0 +1,1 @@
+cmd_drivers/regulator/mc13xxx-regulator-core.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/regulator/mc13xxx-regulator-core.ko drivers/regulator/mc13xxx-regulator-core.o drivers/regulator/mc13xxx-regulator-core.mod.o

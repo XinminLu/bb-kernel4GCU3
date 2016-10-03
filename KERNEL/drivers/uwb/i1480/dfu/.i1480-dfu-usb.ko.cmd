@@ -1,0 +1,1 @@
+cmd_drivers/uwb/i1480/dfu/i1480-dfu-usb.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/uwb/i1480/dfu/i1480-dfu-usb.ko drivers/uwb/i1480/dfu/i1480-dfu-usb.o drivers/uwb/i1480/dfu/i1480-dfu-usb.mod.o

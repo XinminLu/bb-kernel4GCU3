@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/sch5627.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/hwmon/sch5627.ko drivers/hwmon/sch5627.o drivers/hwmon/sch5627.mod.o

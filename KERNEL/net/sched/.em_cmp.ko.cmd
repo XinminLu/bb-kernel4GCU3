@@ -1,0 +1,1 @@
+cmd_net/sched/em_cmp.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o net/sched/em_cmp.ko net/sched/em_cmp.o net/sched/em_cmp.mod.o

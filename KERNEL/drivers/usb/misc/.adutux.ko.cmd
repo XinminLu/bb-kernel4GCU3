@@ -1,0 +1,1 @@
+cmd_drivers/usb/misc/adutux.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/usb/misc/adutux.ko drivers/usb/misc/adutux.o drivers/usb/misc/adutux.mod.o

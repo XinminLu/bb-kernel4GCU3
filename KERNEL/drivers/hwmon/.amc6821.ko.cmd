@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/amc6821.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/hwmon/amc6821.ko drivers/hwmon/amc6821.o drivers/hwmon/amc6821.mod.o

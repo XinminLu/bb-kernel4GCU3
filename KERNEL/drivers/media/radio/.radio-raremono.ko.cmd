@@ -1,0 +1,1 @@
+cmd_drivers/media/radio/radio-raremono.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/media/radio/radio-raremono.ko drivers/media/radio/radio-raremono.o drivers/media/radio/radio-raremono.mod.o

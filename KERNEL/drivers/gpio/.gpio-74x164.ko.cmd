@@ -1,0 +1,1 @@
+cmd_drivers/gpio/gpio-74x164.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/gpio/gpio-74x164.ko drivers/gpio/gpio-74x164.o drivers/gpio/gpio-74x164.mod.o

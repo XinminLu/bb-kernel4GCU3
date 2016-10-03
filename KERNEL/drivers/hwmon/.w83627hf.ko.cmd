@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/w83627hf.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/hwmon/w83627hf.ko drivers/hwmon/w83627hf.o drivers/hwmon/w83627hf.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/staging/speakup/speakup_txprt.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/staging/speakup/speakup_txprt.ko drivers/staging/speakup/speakup_txprt.o drivers/staging/speakup/speakup_txprt.mod.o

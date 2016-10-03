@@ -1,0 +1,1 @@
+cmd_net/netfilter/nft_rbtree.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o net/netfilter/nft_rbtree.ko net/netfilter/nft_rbtree.o net/netfilter/nft_rbtree.mod.o

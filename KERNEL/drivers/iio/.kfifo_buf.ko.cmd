@@ -1,0 +1,1 @@
+cmd_drivers/iio/kfifo_buf.ko := /home/xinmin/work_kernel/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/iio/kfifo_buf.ko drivers/iio/kfifo_buf.o drivers/iio/kfifo_buf.mod.o

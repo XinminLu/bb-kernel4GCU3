@@ -1,0 +1,1 @@
+cmd_net/can/can-bcm.ko := /home/xinmin/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o net/can/can-bcm.ko net/can/can-bcm.o net/can/can-bcm.mod.o
